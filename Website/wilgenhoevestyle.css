@@ -40,6 +40,14 @@ p {
   width: 150px;
 }
 
+#img2{
+  border: 5px solid #ddd;
+  border-radius: 5px;
+  padding: 5px;
+  width: 150px;
+  height: 150px;
+}
+
 img:hover {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
