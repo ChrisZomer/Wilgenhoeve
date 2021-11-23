@@ -1,29 +1,29 @@
 body {
-  background-color: blue;
+  background-color: RGB(223, 207, 190);
   font-family: verdana;
   font-size: 20px;
 }
 
 h1 {
-  color: black;
+  color: green;
   text-align: center;
   font-size: 22px;
 }
 
 h2{
-	color: black;
+	color: red;
   text-align: center;
   font-size: 18px;
 }
 
 h3{
-	color: black;
+	color: darkgreen;
   text-align: center;
   font-size: 16px;
 }
 
 h4{
-	color: black;
+	color: lime green ;
   text-align: center;
   font-size: 14px;
 }
