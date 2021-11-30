@@ -30,7 +30,8 @@ h4{
 
 p {
   font-family: verdana;
-  font-size: 20px;
+  font-size: 15px;
+  text-align: center;
 }
 
 #img1{
@@ -50,4 +51,12 @@ p {
 
 img:hover {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.volgendepagina {
+  text-align: right;
+}
+
+.vorigepagine{
+  text-align: left;
 }
