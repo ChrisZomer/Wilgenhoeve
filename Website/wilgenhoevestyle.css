@@ -5,7 +5,8 @@ body {
 }
 
 h1{
-  color: green;
+  font: bold;
+  color: black;
   text-align: center;
   font-size: 22px;
 }
