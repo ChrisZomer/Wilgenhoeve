@@ -2,21 +2,24 @@ body {
   background-color: white;
   font-size: 20px;
 }
+
+h1{
   color: green;
   text-align: center;
   font-size: 22px;
 }
 
 h2{
-	color: red;
+	color: blue;
   text-align: center;
   font-size: 18px;
 }
 
 h3{
-	color: darkgreen;
+	color: red;
   text-align: center;
   font-size: 16px;
+  
 }
 
 h4{
