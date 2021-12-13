@@ -1,0 +1,9 @@
+#gegevens {
+  border:1px solid ;
+  
+  text-align:left;
+}
+
+#gegevens tr td  , #gegevens tr th {
+  padding:1em;
+}
