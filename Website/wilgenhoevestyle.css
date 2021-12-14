@@ -120,15 +120,5 @@ img:hover {
   text-align: justify;
   margin: 20px 0;
 }
-a{
-  display: block;
-  width: 150px;
-  position: relative;
-  margin: auto;
-  text-align: center;
-  background-color: #0f723e5;
-  color:  #ffffff;
-  text-decoration: none;
-  padding: 5px 0;
-} 
+
 
