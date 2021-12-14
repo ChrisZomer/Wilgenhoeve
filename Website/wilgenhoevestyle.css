@@ -1,13 +1,4 @@
 body {
-<<<<<<< HEAD
-  background-color: RGB(223, 207, 190);
-  font-family: verdana;
-  font-size: 20px;
-}
-
-h1 {
-  color: green;
-=======
   background-color: white;
   background-image: url("usedimages/sneeuw.jpg");
   font-size: 20px;
@@ -16,29 +7,11 @@ h1 {
 h1{
   font: bold;
   color: black;
->>>>>>> 2a7876e2b52bff40fdd410256838302c3175ae15
   text-align: center;
   font-size: 22px;
 }
 
 h2{
-<<<<<<< HEAD
-	color: black;
-  text-align: center;
-  font-size: 18px;
-  font-family: Arial;
-  font-style: italic;
-}
-
-h3{
-	color: darkgreen;
-  text-align: center;
-  font-size: 16px;
-}
-
-h4{
-	color: darkgreen;
-=======
 	color: blue;
   text-align: center;
   font-size: 18px;
@@ -53,19 +26,14 @@ h3{
 
 h4{
 	color: lime green ;
->>>>>>> 2a7876e2b52bff40fdd410256838302c3175ae15
   text-align: center;
   font-size: 14px;
 }
 
 p {
   font-family: verdana;
-<<<<<<< HEAD
-  font-size: 20px;
-=======
   font-size: 15px;
   text-align: center;
->>>>>>> 2a7876e2b52bff40fdd410256838302c3175ae15
 }
 
 #img1{
@@ -85,8 +53,6 @@ p {
 
 img:hover {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
-<<<<<<< HEAD
-=======
 }
 
 .volgendepagina{
@@ -119,5 +85,4 @@ img:hover {
 .topnav a.active {
   background-color: #04AA6D;
   color: white;
->>>>>>> 2a7876e2b52bff40fdd410256838302c3175ae15
 }
