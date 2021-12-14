@@ -95,7 +95,9 @@ img:hover {
 }
 .popup{
   background-color: #ffffff;
-  width: 450px;
+  background-image: url("usedimages/ufo.gif");
+  width: 500px;
+  height: 375px;
   padding: 30px 40px;
   position: absolute;
   transform: translate(-50%,-50%);
@@ -116,9 +118,10 @@ img:hover {
   cursor: pointer;
 }
 .popup p{
-  font-size: 14px;
-  text-align: justify;
+  font-size: 20px;
+  text-align: center;
   margin: 20px 0;
+  color: red;
 }
 
 
