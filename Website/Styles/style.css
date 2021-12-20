@@ -42,4 +42,17 @@ p {
 
 img:hover {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+<<<<<<< HEAD
+=======
+}
+
+#gegevens {
+  border:1px solid ;
+  
+  text-align:left;
+}
+
+#gegevens tr td  , #gegevens tr th {
+  padding:1em;
+>>>>>>> contactpagina
 }
